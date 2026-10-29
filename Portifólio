@@ -1,0 +1,1070 @@
+HTML=
+
+
+
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Matheus Fragoso | Portfólio</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+
+
+<nav class="navbar navbar-expand-lg">
+
+  <div class="container">
+
+    <a class="navbar-brand" href="#inicio">M<span>.</span></a>
+
+    <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#menu">
+
+      <span class="navbar-toggler-icon"></span>
+
+    </button>
+
+    <div class="collapse navbar-collapse" id="menu">
+
+      <ul class="navbar-nav ms-auto">
+
+        <li class="nav-item"><a class="nav-link" href="#inicio">Início</a></li>
+
+        <li class="nav-item"><a class="nav-link" href="#sobre">Sobre mim</a></li>
+
+        <li class="nav-item"><a class="nav-link" href="#habilidades">Habilidades</a></li>
+
+        <li class="nav-item"><a class="nav-link" href="#projetos">Projetos</a></li>
+
+        <li class="nav-item"><a class="nav-link" href="#contato">Contato</a></li>
+
+      </ul>
+
+    </div>
+
+  </div>
+
+</nav>
+
+
+
+<header id="inicio" class="hero">
+
+  <div class="container">
+
+    <div class="row align-items-center g-4">
+
+      <div class="col-lg-8">
+
+        <p class="etiqueta">PORTFÓLIO PESSOAL / 2026</p>
+
+        <h1>Matheus Henrique<br><span>Albuquerque Fragoso.</span></h1>
+
+        <h5>18 anos · Estudante de ADS</h5>
+
+        <p class="apresentacao">
+
+          Estou construindo minha jornada na tecnologia,
+
+          aprendendo programação e desenvolvimento web
+
+          através de estudos e projetos práticos.
+
+        </p>
+
+        <a href="#projetos" class="botao">Conheça meus projetos ↘</a>
+
+      </div>
+
+      <div class="col-lg-4">
+
+        <div class="desenho">
+
+          <div class="sol"></div>
+
+          <div class="orbita"></div>
+
+          <span class="simbolo">{ }</span>
+
+          <small>IDEIAS EM<br>CONSTRUÇÃO</small>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</header>
+
+
+
+<section id="sobre" class="secao">
+
+  <div class="container">
+
+    <div class="row g-4">
+
+      <div class="col-md-4">
+
+        <p class="etiqueta">01 / QUEM SOU</p>
+
+        <h2>Um pouco<br>sobre mim<span>.</span></h2>
+
+      </div>
+
+      <div class="col-md-8">
+
+        <p>Meu nome é Matheus Henrique Albuquerque Fragoso, tenho 18 anos e curso Análise e Desenvolvimento de Sistemas (ADS).</p>
+
+        <p>Estou aprendendo lógica de programação, HTML, CSS, JavaScript, C++ e Python. Gosto de aprender na prática e desenvolver projetos para aprimorar meus conhecimentos.</p>
+
+        <p>Meu objetivo é evoluir na área de tecnologia, conquistar experiência e construir minha carreira como desenvolvedor.</p>
+
+        <div class="assinatura">Em aprendizado constante.</div>
+
+
+
+        <div class="redes-sociais">
+
+          <a href="https://github.com/matheusdevtech" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+
+          <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<section id="habilidades" class="secao habilidades">
+
+  <div class="container">
+
+    <p class="etiqueta">02 / FERRAMENTAS</p>
+
+    <h2>O que estou aprendendo<span>.</span></h2>
+
+    <div class="row g-3 mt-3">
+
+      <div class="col-6 col-lg-3">
+
+        <div class="skill s1"><small>01</small><h3>HTML5</h3><p>Estrutura web</p></div>
+
+      </div>
+
+      <div class="col-6 col-lg-3">
+
+        <div class="skill s2"><small>02</small><h3>C++</h3><p>Lógica de programação</p></div>
+
+      </div>
+
+      <div class="col-6 col-lg-3">
+
+        <div class="skill s3"><small>03</small><h3>JavaScript</h3><p>Interação e lógica</p></div>
+
+      </div>
+
+      <div class="col-6 col-lg-3">
+
+        <div class="skill s4"><small>04</small><h3>Python</h3><p>Lógica e automação</p></div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<section id="projetos" class="secao">
+
+  <div class="container">
+
+    <p class="etiqueta">03 / MEUS ESTUDOS</p>
+
+    <h2>Projetos em desenvolvimento<span>.</span></h2>
+
+
+
+    <div class="row g-4 mt-2">
+
+      <div class="col-md-6 col-lg-4">
+
+        <div class="card h-100">
+
+          <div class="capa c1">HTML + CSS</div>
+
+          <div class="card-body">
+
+            <p class="etiqueta">01 — DESENVOLVIMENTO WEB</p>
+
+            <h3 class="card-title">Portfólio pessoal</h3>
+
+            <p class="card-text">Página criada para apresentar minha formação, habilidades e evolução na programação.</p>
+
+            <a href="https://github.com/matheusdevtech/Algoritmos-e-Pensamento-Computacional" target="_blank" rel="noopener noreferrer" class="link-projeto">Ver meu GitHub ↗</a>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+
+      <div class="col-md-6 col-lg-4">
+
+        <div class="card h-100">
+
+          <div class="capa c2">C++ · LÓGICA</div>
+
+          <div class="card-body">
+
+            <p class="etiqueta">02 — PROGRAMAÇÃO</p>
+
+            <h3 class="card-title">Exercícios em C++</h3>
+
+            <p class="card-text">Estudos de variáveis, condições, repetições e resolução de problemas usando programação.</p>
+
+            <a href="https://github.com/matheusdevtech/Algoritimos-e-Pensamento-Computacional---Aula-5-Veteranos" target="_blank" rel="noopener noreferrer" class="link-projeto">Ver meu GitHub ↗</a>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+
+      <div class="col-md-6 col-lg-4">
+
+        <div class="card h-100">
+
+          <div class="capa c3">PYTHON</div>
+
+          <div class="card-body">
+
+            <p class="etiqueta">03 — LÓGICA E AUTOMAÇÃO</p>
+
+            <h3 class="card-title">Estudos em Python</h3>
+
+            <p class="card-text">Aprendizado de variáveis, estruturas condicionais, operações matemáticas e resolução de problemas.</p>
+
+            <a href="https://github.com/matheusdevtech/Algoritimos-e-Pensamento-Computacional---Aula-5-Veteranos" target="_blank" rel="noopener noreferrer" class="link-projeto">Ver meu GitHub ↗</a>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<section id="contato" class="contato">
+
+  <div class="container">
+
+    <div class="row g-5">
+
+      <div class="col-lg-5">
+
+        <p class="etiqueta">04 / VAMOS CONVERSAR</p>
+
+        <h2>Uma ideia começa<br>com uma conversa<span>.</span></h2>
+
+        <p class="contato-texto">Tem alguma oportunidade ou quer trocar uma ideia? Me envie uma mensagem.</p>
+
+        <div class="contato-simbolo">↘</div>
+
+      </div>
+
+      <div class="col-lg-7">
+
+        <form id="formContato">
+
+          <div class="mb-4">
+
+            <label for="nome" class="form-label">Seu nome</label>
+
+            <input type="text" class="form-control" id="nome" placeholder="Como você se chama?" required>
+
+          </div>
+
+          <div class="mb-4">
+
+            <label for="email" class="form-label">Seu e-mail</label>
+
+            <input type="email" class="form-control" id="email" placeholder="voce@exemplo.com" required>
+
+          </div>
+
+          <div class="mb-4">
+
+            <label for="mensagem" class="form-label">Sua mensagem</label>
+
+            <textarea class="form-control" id="mensagem" rows="4" placeholder="Escreva aqui..." required></textarea>
+
+          </div>
+
+          <button type="submit" class="botao">Enviar mensagem ↗</button>
+
+        </form>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<footer>
+
+  <div class="container d-flex flex-wrap justify-content-between gap-2">
+
+    <p>MATHEUS HENRIQUE ALBUQUERQUE FRAGOSO<span>.</span></p>
+
+    <p>ESTUDANTE DE ADS · © <span id="ano"></span></p>
+
+  </div>
+
+</footer>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
+
+
+
+CSS=
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700;800&display=swap');
+
+
+
+:root {
+
+  --fundo: #080b12;
+
+  --texto: #f5f5f5;
+
+  --dourado: #d4af37;
+
+  --vermelho: #790d19;
+
+  --azul: #101e38;
+
+  --linha: #293246;
+
+  --cinza: #aab2c0;
+
+}
+
+
+
+html { scroll-behavior: smooth; scroll-padding-top: 75px; }
+
+
+
+body {
+
+  background: var(--fundo);
+
+  color: var(--texto);
+
+  font-family: 'DM Sans', Arial, sans-serif;
+
+}
+
+
+
+.navbar {
+
+  background: #05070c;
+
+  border-bottom: 1px solid var(--linha);
+
+  padding: 14px 0;
+
+}
+
+
+
+.navbar-brand { font-size: 30px; font-weight: 800; color: white; }
+
+.navbar-brand span, footer span, .hero h1 span, h2 span { color: var(--dourado); }
+
+.nav-link { color: white; font-size: 14px; margin-left: 15px; }
+
+.nav-link:hover { color: var(--dourado); }
+
+.navbar-toggler { background: var(--dourado); }
+
+
+
+.hero {
+
+  padding: 80px 0;
+
+  overflow: hidden;
+
+  background: linear-gradient(120deg, #080b12, #101e38);
+
+}
+
+
+
+.etiqueta {
+
+  font: 11px 'DM Mono', monospace;
+
+  letter-spacing: 1.5px;
+
+  color: var(--dourado);
+
+  margin-bottom: 18px;
+
+}
+
+
+
+.hero h1 {
+
+  font-size: clamp(38px, 5.5vw, 70px);
+
+  font-weight: 800;
+
+  letter-spacing: -3px;
+
+  line-height: 1.1;
+
+}
+
+
+
+.hero h5 { margin-top: 20px; color: var(--dourado); }
+
+
+
+.apresentacao {
+
+  max-width: 430px;
+
+  color: var(--cinza);
+
+  line-height: 1.8;
+
+  margin: 20px 0;
+
+}
+
+
+
+.botao {
+
+  display: inline-block;
+
+  padding: 13px 18px;
+
+  background: var(--dourado);
+
+  color: #080b12;
+
+  border: 1px solid var(--dourado);
+
+  text-decoration: none;
+
+  font-size: 13px;
+
+  font-weight: 700;
+
+  transition: 0.3s;
+
+}
+
+
+
+.botao:hover {
+
+  background: var(--vermelho);
+
+  border-color: var(--vermelho);
+
+  color: white;
+
+}
+
+
+
+.desenho {
+
+  height: 300px;
+
+  max-width: 300px;
+
+  margin: auto;
+
+  background: var(--azul);
+
+  position: relative;
+
+  overflow: hidden;
+
+  border: 1px solid #354765;
+
+  border-radius: 48% 48% 3px 3px;
+
+}
+
+
+
+.sol {
+
+  width: 130px;
+
+  height: 130px;
+
+  border-radius: 50%;
+
+  background: var(--dourado);
+
+  position: absolute;
+
+  top: 70px;
+
+  left: 50%;
+
+  transform: translateX(-50%);
+
+}
+
+
+
+.orbita {
+
+  position: absolute;
+
+  width: 220px;
+
+  height: 220px;
+
+  border: 1px solid var(--vermelho);
+
+  border-radius: 50%;
+
+  top: 30px;
+
+  left: 50%;
+
+  transform: translateX(-50%) rotate(-30deg);
+
+}
+
+
+
+.simbolo {
+
+  position: absolute;
+
+  top: 100px;
+
+  left: 50%;
+
+  transform: translateX(-50%);
+
+  color: #080b12;
+
+  font-size: 50px;
+
+  font-weight: bold;
+
+}
+
+
+
+.desenho small {
+
+  position: absolute;
+
+  bottom: 18px;
+
+  left: 18px;
+
+  font: 10px 'DM Mono', monospace;
+
+  color: white;
+
+}
+
+
+
+.secao { padding: 70px 0; border-top: 1px solid var(--linha); }
+
+.secao h2, .contato h2 { font-size: clamp(29px, 4vw, 42px); font-weight: 800; letter-spacing: -1px; }
+
+.secao p:not(.etiqueta) { line-height: 1.8; color: var(--cinza); }
+
+
+
+.assinatura {
+
+  display: inline-block;
+
+  border-bottom: 2px solid var(--dourado);
+
+  padding-bottom: 5px;
+
+  font-weight: bold;
+
+  font-size: 14px;
+
+}
+
+
+
+.redes-sociais { display: flex; flex-wrap: wrap; gap: 15px; margin-top: 25px; }
+
+
+
+.redes-sociais a {
+
+  display: inline-block;
+
+  padding: 12px 20px;
+
+  border: 1px solid var(--dourado);
+
+  color: var(--dourado);
+
+  text-decoration: none;
+
+  font-size: 13px;
+
+  font-weight: 700;
+
+  transition: 0.3s;
+
+}
+
+
+
+.redes-sociais a:hover {
+
+  background: var(--dourado);
+
+  color: var(--fundo);
+
+  transform: translateY(-3px);
+
+}
+
+
+
+.habilidades { background: #0c1220; }
+
+
+
+.skill {
+
+  min-height: 155px;
+
+  padding: 18px;
+
+  display: flex;
+
+  flex-direction: column;
+
+  justify-content: space-between;
+
+  border: 1px solid var(--linha);
+
+}
+
+
+
+.skill h3 { font-size: 23px; font-weight: 800; margin: 12px 0 0; }
+
+.skill small, .skill p { color: white; }
+
+.skill p { font-size: 12px; margin: 0; }
+
+
+
+.s1 { background: var(--azul); color: white; }
+
+.s2 { background: var(--vermelho); color: white; }
+
+.s3 { background: var(--dourado); color: #080b12; }
+
+.s4 { background: #f5f5f5; color: #080b12; }
+
+
+
+.card {
+
+  border: 1px solid var(--linha);
+
+  border-radius: 5px;
+
+  background: #0c1220;
+
+  color: var(--texto);
+
+  overflow: hidden;
+
+  transition: transform 0.3s, border-color 0.3s;
+
+}
+
+
+
+.card:hover { transform: translateY(-5px); border-color: var(--dourado); }
+
+
+
+.capa {
+
+  height: 150px;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  font: 13px 'DM Mono', monospace;
+
+  letter-spacing: 2px;
+
+}
+
+
+
+.c1 { background: var(--vermelho); color: white; }
+
+.c2 { background: var(--azul); color: var(--dourado); }
+
+.c3 { background: var(--dourado); color: #080b12; }
+
+
+
+.card-body { padding: 20px; }
+
+.card-title { font-size: 21px; font-weight: 800; color: white; }
+
+.card .etiqueta, .card-text { color: white; }
+
+.card-text { font-size: 14px; }
+
+
+
+.link-projeto {
+
+  color: var(--dourado);
+
+  text-decoration: none;
+
+  font-size: 13px;
+
+  font-weight: bold;
+
+  border-bottom: 1px solid var(--dourado);
+
+}
+
+
+
+.link-projeto:hover { color: white; }
+
+
+
+.contato { background: var(--azul); color: white; padding: 75px 0; }
+
+.contato .etiqueta { color: var(--dourado); }
+
+.contato-texto { color: var(--cinza); line-height: 1.8; max-width: 330px; margin-top: 20px; }
+
+.contato-simbolo { font-size: 75px; color: var(--dourado); }
+
+.form-label { font-size: 12px; color: white; }
+
+
+
+.form-control {
+
+  border: 0;
+
+  border-bottom: 1px solid #52617a;
+
+  border-radius: 0;
+
+  padding: 12px 0;
+
+  background: transparent;
+
+  color: white;
+
+}
+
+
+
+.form-control:focus { background: transparent; color: white; border-color: var(--dourado); box-shadow: none; }
+
+.form-control::placeholder { color: var(--cinza); font-size: 13px; }
+
+
+
+footer {
+
+  background: #05070c;
+
+  color: white;
+
+  padding: 22px 0 8px;
+
+  border-top: 1px solid var(--linha);
+
+}
+
+
+
+footer p { font: 10px 'DM Mono', monospace; }
+
+
+
+@media (max-width: 576px) {
+
+  .hero { padding: 55px 0; }
+
+  .hero h1 { letter-spacing: -1.5px; }
+
+  .secao, .contato { padding: 50px 0; }
+
+  .skill { min-height: 140px; padding: 13px; }
+
+}
+
+
+
+JS=
+
+
+
+/* Atualizar o ano automaticamente */
+
+document.getElementById("ano").textContent = new Date().getFullYear();
+
+
+
+/* Mensagens no console */
+
+console.log("Bem-vindo ao portfólio de Matheus Fragoso!");
+
+console.log("Estudante de ADS | Aprendendo programação");
+
+
+
+/* Formulário de contato */
+
+const formulario = document.getElementById("formContato");
+
+
+
+formulario.addEventListener("submit", function(event) {
+
+  event.preventDefault();
+
+
+
+  const nome = document.getElementById("nome").value.trim();
+
+  const email = document.getElementById("email").value.trim();
+
+  const mensagem = document.getElementById("mensagem").value.trim();
+
+
+
+  if (nome === "" || email === "" || mensagem === "") {
+
+    alert("Por favor, preencha todos os campos!");
+
+    return;
+
+  }
+
+
+
+  alert("Obrigado pelo contato, " + nome + "! Esta é uma demonstração do formulário.");
+
+  formulario.reset();
+
+});
+
+
+
+/* Destacar o link selecionado no menu */
+
+const linksMenu = document.querySelectorAll(".nav-link");
+
+
+
+linksMenu.forEach(function(link) {
+
+  link.addEventListener("click", function() {
+
+    linksMenu.forEach(function(item) {
+
+      item.style.color = "";
+
+    });
+
+
+
+    link.style.color = "#d4af37";
+
+  });
+
+});
+
+
+
+/* Efeito nos cards */
+
+const cards = document.querySelectorAll(".card");
+
+
+
+cards.forEach(function(card) {
+
+  card.addEventListener("mouseenter", function() {
+
+    card.style.transition = "0.3s";
+
+  });
+
+});
+
+
+
+/* Botão para voltar ao topo */
+
+const voltarTopo = document.createElement("button");
+
+
+
+voltarTopo.textContent = "↑";
+
+voltarTopo.title = "Voltar ao topo";
+
+voltarTopo.id = "voltarTopo";
+
+
+
+voltarTopo.style.cssText = `
+
+  position: fixed;
+
+  bottom: 20px;
+
+  right: 20px;
+
+  width: 45px;
+
+  height: 45px;
+
+  border: none;
+
+  border-radius: 5px;
+
+  background: #d4af37;
+
+  color: #080b12;
+
+  font-size: 24px;
+
+  cursor: pointer;
+
+  display: none;
+
+  z-index: 1000;
+
+`;
+
+
+
+document.body.appendChild(voltarTopo);
+
+
+
+window.addEventListener("scroll", function() {
+
+  if (window.scrollY > 300) {
+
+    voltarTopo.style.display = "block";
+
+  } else {
+
+    voltarTopo.style.display = "none";
+
+  }
+
+});
+
+
+
+voltarTopo.addEventListener("click", function() {
+
+  window.scrollTo({
+
+    top: 0,
+
+    behavior: "smooth"
+
+  });
+
+});
+
+
+
+/* Mostrar a data atual no console */
+
+console.log("Data atual:", new Date().toLocaleDateString("pt-BR"));
+
